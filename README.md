@@ -1,6 +1,8 @@
 ## Image Super-Resolution (4×) with EDSR
 
+<!--
 A full-stack web application that processes video lectures, generates text transcripts, and automatically creates multiple-choice questions (MCQs) for each segment. The app features a modern, polished interface and demonstrates core MVP functionality.
+-->
 
 ### Overview
 
