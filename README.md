@@ -29,7 +29,7 @@ Python · PyTorch · NumPy · Pillow (PIL) · torchvision · scikit-image (PSNR/
 
 ---
 
-- **Preprocessing**  
+ **Preprocessing**  
 - Normalize to [0,1]  
 - Random HR crops of size 192×192, corresponding LR patches of 48×48  
 - Center-crop for evaluation  
