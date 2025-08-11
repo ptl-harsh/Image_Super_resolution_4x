@@ -23,6 +23,10 @@ This repository contains a PyTorch implementation of the Enhanced Deep Super-Res
 - **Batch Inference**: Export all 4× upscaled images (Nearest, Bicubic, EDSR) for downstream use
 
 
+### Tech Stacks
+Python · PyTorch · NumPy · Pillow (PIL) · torchvision · scikit-image (PSNR/SSIM)
+
+
 - **Preprocessing**  
 - Normalize to [0,1]  
 - Random HR crops of size 192×192, corresponding LR patches of 48×48  
